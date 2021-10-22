@@ -1,32 +1,31 @@
 .pup{
     background-image:url( https://images.wallpaperscraft.ru/image/single/nebo_oblaka_rozovyy_92617_1920x1080.jpg);
-    height: 500px;
     width: 500px;
     overflow: auto;
 }
 .pip{
-    background-color: black;
+    background-color: rgb(151, 190, 206);
 }
 .lol{
-    background-color: rgb(221, 179, 117);
+    background-color: rgb(255, 215, 215);
 }
 .duck{
-    background-color: khaki;
+    background-color: rgb(95, 96, 138);
 }
-.adidas{
-    background-color: rgb(221, 179, 117);
+.piu{
+    background-color: rgb(255, 186, 57);
 }
 .morgen{
-    background-color: khaki;
+    background-color: rgb(199, 150, 245);
 }
 .knopka{
     width: 195px;
     border-radius: 5px;
-    background-color: #ef0ddc;
+    background-color: #ffacac;
     background-image: #1000f4;
-    background-image: -moz-linear-gradient(top, #f3eded 0%, #F4F200 100%);
-    background-image: -webkit-linear-gradient(top, #f3eded 0%,#e6e409 100%);
-    background-image: linear-gradient(to bottom, #f3eded 0%,#fbf926 100%);
+    background-image: -moz-linear-gradient(top, #f3eded 0%, #29022e 100%);
+    background-image: -webkit-linear-gradient(top, #f3eded 0%,#491645 100%);
+    background-image: linear-gradient(to bottom, #f3eded 0%,#131f5f 100%);
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: 0%;
@@ -36,4 +35,9 @@
 .knopka{
     background-position: -200%;
   transition: background 300ms ease-in-out;
+}.knopka:hover{
+    background-color: brown;
+}
+.knopka:active{
+    background-color: cornsilk;
 }
