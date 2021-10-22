@@ -1,0 +1,39 @@
+.pup{
+    background-image:url( https://images.wallpaperscraft.ru/image/single/nebo_oblaka_rozovyy_92617_1920x1080.jpg);
+    height: 500px;
+    width: 500px;
+    overflow: auto;
+}
+.pip{
+    background-color: black;
+}
+.lol{
+    background-color: rgb(221, 179, 117);
+}
+.duck{
+    background-color: khaki;
+}
+.adidas{
+    background-color: rgb(221, 179, 117);
+}
+.morgen{
+    background-color: khaki;
+}
+.knopka{
+    width: 195px;
+    border-radius: 5px;
+    background-color: #ef0ddc;
+    background-image: #1000f4;
+    background-image: -moz-linear-gradient(top, #f3eded 0%, #F4F200 100%);
+    background-image: -webkit-linear-gradient(top, #f3eded 0%,#e6e409 100%);
+    background-image: linear-gradient(to bottom, #f3eded 0%,#fbf926 100%);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+}
+.knopka{
+    background-position: -200%;
+  transition: background 300ms ease-in-out;
+}
