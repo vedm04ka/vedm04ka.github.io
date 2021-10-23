@@ -10,6 +10,10 @@
 .offset{
     padding-top: 329px;
 }
+.xxx{
+    display: inline-block;
+    width: 33%;
+}
 #Описание{
     width: 800px;
     height: 100%;
